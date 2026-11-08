@@ -1,6 +1,6 @@
 {
-  "version": "2.9.11",
-  "notes": "EasyEdit update server migration and UI fixes",
-  "url": "https://raw.githubusercontent.com/callmeeasyedit/easyedit-updates/main/releases/EasyEdit-2.9.11.zip",
-  "sha256": "0edbd3cf6d9364fe31efd3b47763a0e80f21901c2e08ee4dc43c9973d72f72c8"
+  "url": "https://raw.githubusercontent.com/callmeeasyedit/easyedit-updates/main/releases/EasyEdit-2.9.12.zip",
+  "version": "2.9.12",
+  "notes": "Fix palette color button interaction",
+  "sha256": "ade15c1f2a6ad8055607bc16702e2cd7a55d43d2ca3df70c35bc4ca82801ec92"
 }
